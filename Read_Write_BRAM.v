@@ -1,3 +1,4 @@
+// This code has not been Verified.
 module R_W_BRAM(clk,R_addr,R_data_OUT,R_BRAM_EN,R_BRAM_WE,Capture_trig,
 W_addr,
 W_data_IN,
